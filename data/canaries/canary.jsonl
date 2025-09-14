@@ -1,1 +1,5 @@
+아래는 예제임
 
+{"id": 1, "canary": "CANARY_ABC123_XYZ"}
+{"id": 2, "canary": "CANARY_SECRET_TOKEN_98765"}
+{"id": 3, "canary": "CANARY_RANDOM_STRING_QWERTY"}
