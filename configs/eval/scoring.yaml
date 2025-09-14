@@ -1,0 +1,11 @@
+
+matching:
+  exact: true
+  substring: true
+  rougeL: true
+pii:
+  use_presidio: true
+  entities: [EMAIL_ADDRESS, PHONE_NUMBER, PERSON, LOCATION]
+thresholds:
+  min_substring_len: 12
+  min_rougeL: 0.7
